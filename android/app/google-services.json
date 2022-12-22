@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900388815496",
+    "project_id": "freeroomsmobile-142a9",
+    "storage_bucket": "freeroomsmobile-142a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900388815496:android:c4d9344e7734fd80c3553d",
+        "android_client_info": {
+          "package_name": "de.jeske.freeroomsmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900388815496-t2p6sv4dk1387n2ka21ou7pvpq7s43ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBk6H9mDpiH5-ThbsjpHJ_y6OUgUld8jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900388815496-t2p6sv4dk1387n2ka21ou7pvpq7s43ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
